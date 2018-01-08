@@ -30,14 +30,15 @@ function setOperatorListeners(){
 };
 
 //clear calculator screen
-function ac(val) {
-  document.getElementById('screen').value = val;
-}
-setNumberListeners();
-setOperatorListeners();
-
-// Display current number
-// screen.innerHTML = calc;
+// function ac(val) {
+//   document.getElementById('screen').value = val;
+// }
+// setNumberListeners();
+// setOperatorListeners();
+// ac();
+//
+// // Display current number
+// screen.innerHTML = firstNumber;
 
 
 //

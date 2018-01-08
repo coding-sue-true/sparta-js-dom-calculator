@@ -1,4 +1,7 @@
-# Dom Calculator - Tasks
+Homework not finished
+
+# Main
+## Dom Calculator - Tasks
 1) Git repo with Dev and Master branches
 2) Me and Joe added as contributors
 3) Finished README.md with brief, what went well, the challenges and list of what you delivered
